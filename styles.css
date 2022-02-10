@@ -22,7 +22,7 @@ body {
   height: calc(calc(var(--vh, 1vh) * 100) - 410px);
 }
 .card-product-img {
-  height: 180px;
+  height: 240px;
   object-fit: contain !important;
 }
 @media screen and (max-height : 600px),
