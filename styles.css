@@ -19,7 +19,7 @@ body {
   height: calc(calc(var(--vh, 1vh) * 100) - 200px);
 }
 .transaction-img {
-  height: calc(calc(var(--vh, 1vh) * 100) - 410px);
+  height: calc(calc(var(--vh, 1vh) * 100) - 510px);
 }
 .card-product-img {
   height: 240px;
