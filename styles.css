@@ -116,3 +116,15 @@ screen and (max-width : 600px) {
     margin-left: auto !important;
     margin-right: auto !important;
 }
+
+.diagram-component {
+  width: 100%;
+  min-height: 300px;
+  height: 100%;
+  background-color: white;
+}
+
+
+a.a-link, a.a-link:visited, a.a-link:hover, a.a-link:active {
+    color: inherit;
+}
